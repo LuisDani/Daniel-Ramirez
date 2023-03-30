@@ -486,7 +486,7 @@ footer i{
         width: 100%;
     }
     section{
-        height: 290vh;
+        height: 200vh;
     }
     .logo img{
         height: 50px;
@@ -539,7 +539,7 @@ footer i{
     }
     .academia{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .academia .imagen_academia{
@@ -554,7 +554,7 @@ footer i{
     }
     .attack{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .attack .imagen_attack{
@@ -569,7 +569,7 @@ footer i{
     }
     .blue_lock{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .blue_lock .imagen_blue{
@@ -584,7 +584,7 @@ footer i{
     }
     .one_piece{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .one_piece .imagen_one{
@@ -600,7 +600,7 @@ footer i{
     }
     .tomo{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .tomo .imagen_tomo{
@@ -615,7 +615,7 @@ footer i{
     }
     .chansaw{
         height: 250px;
-        width: 166px;
+        width: 130px;
         text-align: center;
     }
     .chansaw .imagen_chansaw{

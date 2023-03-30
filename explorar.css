@@ -110,17 +110,21 @@ nav a:hover{
     text-decoration: none;
     padding: 10px 10px 10px 0;
 }
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 390px){
     *{
         margin: 0;
         padding: 0;
     }
     header{
-        width: 400px;
-        height: 80px;
+        width: 100%;
+        height: 100px;
     }
-    .logo img{  
-        height: 50px;
+    .logo{
+        width: 100px;
+        height: 100px;
+    }
+    .logo a img{  
+        height: 100px;
         width: 100px;
     }
     header .logo .direct{
@@ -141,6 +145,8 @@ nav a:hover{
     }
     body{
         background-position: center top;
+        background-repeat: no-repeat;
+        height: 100px;
     }
     .menu{
         width: 99%;
