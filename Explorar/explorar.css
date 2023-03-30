@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 body{
-    background-image: url(./img/anime4k.jpg);
+    background-image: url(../img/anime4k.jpg);
     background-size: cover;
     height: 100vh;
 }
